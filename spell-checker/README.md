@@ -1,4 +1,5 @@
 ##Spell Checker with english dictionary words
+
 This project will help us to identify the correct word from the english dictionary was well as giving the suggestion word for the wrong text was given. 
 It works well for the below given inputs
 - File (you can specify the file from the local or remote)
@@ -23,6 +24,7 @@ Important to know about the `SpellCheckResponse` class methods to get the actual
 |suggestedWords|Map<String, String>|getSuggestedWords()|
 
 ###Usage
+
 - File based search for local and remote file (you can replace the remote file path instead of local path from the below code snippet)
 
         try {
