@@ -1,4 +1,4 @@
-##Spell Checker with english dictionary words
+## Spell Checker with english dictionary words
 
 This project will help us to identify the correct word from the english dictionary was well as giving the suggestion word for the wrong text was given. 
 It works well for the below given inputs
@@ -23,7 +23,7 @@ Important to know about the `SpellCheckResponse` class methods to get the actual
 |correctWords|List<String>| getCorrectWords()|
 |suggestedWords|Map<String, String>|getSuggestedWords()|
 
-###Usage
+### Usage
 
 - File based search for local and remote file (you can replace the remote file path instead of local path from the below code snippet)
 
