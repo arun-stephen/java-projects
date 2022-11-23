@@ -39,20 +39,25 @@ ___
 **Inventory Management:**
 ___
 **Add Product:**
+
 ![2_1_1_1_Add_Product.png](_img/2_1_1_1_Add_Product.png)
 
 **Update Stock:**
+
 ![2_1_1_2_Update_Stock.png](_img/2_1_1_2_Update_Stock.png)
 
 **Remove Product:**
+
 ![2_1_1_3_Remove_Product.png](_img/2_1_1_3_Remove_Product.png)
 
 **Reports:**
 ___
 **Stock Inventory Report:**
+
 ![2_1_2_1_Stock_Inventory.png](_img/2_1_2_1_Stock_Inventory.png)
 
 **Sales Invoice Report:**
+
 ![2_1_2_2_Sales_Invoice_Report.png](_img/2_1_2_2_Sales_Invoice_Report.png)
 
 **Guest User Login:**
@@ -60,15 +65,19 @@ ___
 ![2_2_Guest_User_Login.png](_img/2_2_Guest_User_Login.png)
 
 **Available Products:**
+
 ![2_2_1_Available_Products_Report.png](_img/2_2_1_Available_Products_Report.png)
 
 **Purchase:**
+
 ![2_2_2_Purchase.png](_img/2_2_2_Purchase.png)
 
 **View Cart:**
+
 ![2_2_3_User1_Purchase.png](_img/2_2_3_User1_Purchase.png)
 
 ![2_2_3_User2_Purchase.png](_img/2_2_3_User2_Purchase.png)
 
 **Payment:**
+
 ![2_2_4_Payment.png](_img/2_2_4_Payment.png)
